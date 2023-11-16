@@ -288,7 +288,7 @@ Grants, but subject to the following additional constraints:
    (current or future) obligations under U.S. IRS 501(c)(3).
 
 9. A portion of the Discretionary Budget MAY be allocated to provide reasonable 
-   compensation to members of the ZCG Committee. Committee member compensation
+   compensation to members of the Major Grant Review Committee. Committee member compensation
    SHALL be limited to the hours needed to successfully perform their positions
    and MUST align with the scope and responsibilities of their roles. The
    allocation and distribution of compensation to committee members SHALL be
