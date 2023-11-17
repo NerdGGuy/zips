@@ -293,7 +293,7 @@ Grants, but subject to the following additional constraints:
    and MUST align with the scope and responsibilities of their roles. The
    allocation and distribution of compensation to committee members SHALL be
    administered by the ZF. The committee members will receive compensation at a
-   rate of $115 per hour, for a total of 15 hours each month, amounting to a
+   rate of $115 per hour, based on an estimated 15 hours each month, amounting to a
    monthly sum of $1725. Changes to the hours or rate SHALL be determined by
    the ZF’s Community Advisory Panel or successor process.
 
