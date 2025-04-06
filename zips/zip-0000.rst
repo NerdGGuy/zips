@@ -1,6 +1,6 @@
 ::
 
-  ZIP: 0
+  ZIP: 0 
   Title: ZIP Process
   Owners: Jack Grigg <str4d@electriccoin.co>
           Conrado Gouvêa <conrado@zfnd.org>
